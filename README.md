@@ -1,7 +1,7 @@
 # Project_DL
 Project của môn Deep Learning cuối kì
 
-Chúng em đã sử dụng dataset IWSLT'15 - english - vietnamese để thực hiện tác vụ dịch máy. Trong đó, hai model LSTM và Transformer đã được triển khai, tối ưu HyperParameter và sau đó so sánh hiệu năng (thông qua điểm BLEU) Các model được so sánh với chính nó khi thay đổi HyperParameter và với nhau. 
+Chúng em đã sử dụng dataset IWSLT'15 - english - vietnamese để thực hiện tác vụ dịch máy. Trong đó, hai model LSTM và Attention-Based Model đã được triển khai, tối ưu HyperParameter và sau đó so sánh hiệu năng (thông qua điểm BLEU) Các model được so sánh với chính nó khi thay đổi HyperParameter và với nhau. 
 
 Nội dung repo bao gồm:
 - Code
