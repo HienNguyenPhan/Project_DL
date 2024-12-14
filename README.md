@@ -9,6 +9,6 @@ Nội dung repo bao gồm:
 - Báo cáo (được viết theo format technical report)
 
 Công việc của các thành viên:
-- Nguyễn Phan Hiển: Implement, train và tối ưu model Transformer
+- Nguyễn Phan Hiển: Implement, train và tối ưu model có sử dụng Attention
 - Hồ Tú Minh: Implement, train và tối ưu model LSTM
 - Nguyễn Tiến An: Tổng hợp kết quả và viết báo cáo
